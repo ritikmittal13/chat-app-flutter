@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33695353034",
+    "project_id": "flash-chat-75099",
+    "storage_bucket": "flash-chat-75099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33695353034:android:fde54ddb23ef53ca80cc33",
+        "android_client_info": {
+          "package_name": "com.ritik.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33695353034-0fvd061gd7c345eo37itea2ofe5uhu4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqJ4vrNDMVyXL73TXVQJ4mS57usQ3LDP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33695353034-0fvd061gd7c345eo37itea2ofe5uhu4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
